@@ -1,0 +1,39 @@
+[
+  {
+    "userId": "b1f6c9c1-1d12-4f3e-8e76-10c45f9de1a1",
+    "userName": "johndoe123",
+    "userEmail": "john.doe@example.com",
+    "userFullName": "John Doe",
+    "userGender": "M",
+    "userPassword": "$2b$12$abcdefg1234567890hashedpass1",
+    "userDeviceId": "device-1234"
+  },
+  {
+    "userId": "d5bdfb12-0aa0-4d7e-a87e-cdcb1fc383f3",
+    "userName": "janedoe456",
+    "userEmail": "jane.doe@example.com",
+    "userFullName": "Jane Doe",
+    "userGender": "F",
+    "userPassword": "$2b$12$abcdefg1234567890hashedpass2",
+    "userDeviceId": "device-5678"
+  },
+  {
+    "userId": "e2c3a7b0-9254-4b76-bca3-7cb244aa651c",
+    "userName": "alexsmith789",
+    "userEmail": "alex.smith@example.com",
+    "userFullName": "Alex Smith",
+    "userGender": "M",
+    "userPassword": "$2b$12$abcdefg1234567890hashedpass3",
+    "userDeviceId": "device-9012"
+  },
+  {
+    "userId": "58ab413c-ad1d-4693-9f20-d7c2d9aff3ce",
+    "userName": "johndoe1234",
+    "userEmail": "john1.doe@example.com",
+    "userFullName": "John Doe",
+    "userGender": "M",
+    "userPassword": "$2b$12$x/lcsB13LmBU3rpUhMrtZ.C7X20bVwm4MlcF6UDuh6.hbD8aN/Z0K",
+    "userDeviceId": "lfskldfjlsd-sfklsdjfl-sfjsdlfj",
+    "deviceId": "lfskldfjlsd-sfklsdjfl-sfjsdlfj"
+  }
+]
