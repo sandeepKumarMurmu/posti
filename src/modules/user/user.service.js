@@ -50,6 +50,7 @@ async function create(req, res) {
     existingData.push(payload);
 
     handelDataStore.updateData(USER_FILE_LOCATION, existingData);
+    
     const tokenPayload = {
       userId: payload.userId,
       deviceId: payload.userDeviceId,
