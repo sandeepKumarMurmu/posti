@@ -105,7 +105,7 @@ async function authenticateUser(req, res) {
     }
 
     if (isUserExisting.user.deviceId !== deviceId) {
-      userDb[isUserExisting.index].deviceId = deviceId;
+      userDb[isUserExisting.index].userDeviceId = deviceId;
       handelDataStore.updateData(USER_FILE_LOCATION, userDb);
     }
 

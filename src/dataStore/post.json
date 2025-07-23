@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "58ab413c-ad1d-4693-9f20-d7c2d9aff3ce",
+    "postId": "post-de46001a-72e4-4ca2-8bf2-e1422c9be5fd",
+    "postTittle": "Post tesing",
+    "postDescription": "sfldsjkl jsdlkf lksdjflksdjflksjdfkjsdfsdkfdsl jlfkjs",
+    "postLikeCount": 0,
+    "postDisLikeCount": 0
+  },
+  {
+    "userId": "58ab413c-ad1d-4693-9f20-d7c2d9aff3ce",
+    "postId": "post-b56f9231-789c-4042-a620-485c883e6e1d",
+    "postTittle": "5 Tips to Boost Your JavaScript Skills",
+    "postDescription": "If you want to level up as a JavaScript developer, focus on writing clean, modular code, mastering asynchronous programming, and exploring the latest ES features. Here's how I broke through plateaus in my own learning journey.",
+    "postLikeCount": 0,
+    "postDisLikeCount": 0
+  }
+]
