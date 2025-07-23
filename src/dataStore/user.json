@@ -35,5 +35,14 @@
     "userPassword": "$2b$12$x/lcsB13LmBU3rpUhMrtZ.C7X20bVwm4MlcF6UDuh6.hbD8aN/Z0K",
     "userDeviceId": "lfskldfjlsd-sfklsdjfl-sfjsdlfj",
     "deviceId": "lfskldfjlsd-sfklsdjfl-sfjsdlfj"
+  },
+  {
+    "userId": "6645ee87-4d8f-4e64-9585-ed5f607839a5",
+    "userName": "janesmith89",
+    "userEmail": "jane.smith@example.com",
+    "userFullName": "Jane Smith",
+    "userGender": "F",
+    "userPassword": "$2b$12$dof3k2jjToc2y4Bdpg/WeOJX5tfaPY70geW0kOUXhXlWBiOELrreq",
+    "userDeviceId": "lfskldfjlsd-sfklsdjfl-sfjsdlfj"
   }
 ]
